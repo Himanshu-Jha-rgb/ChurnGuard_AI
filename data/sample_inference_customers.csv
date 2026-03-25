@@ -1,0 +1,5 @@
+customer_id,gender,senior_citizen,tenure,monthly_charges,total_charges,contract,internet_service,payment_method,support_tickets
+CUST-1001,Female,0,6,89.70,538.20,Month-to-month,Fiber optic,Electronic check,4
+CUST-1002,Male,0,52,71.20,3702.40,Two year,DSL,Bank transfer,0
+CUST-1003,Female,1,14,96.35,1348.90,One year,Fiber optic,Credit card,2
+CUST-1004,Male,0,3,57.10,171.30,Month-to-month,DSL,Mailed check,3
